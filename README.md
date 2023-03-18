@@ -1,4 +1,10 @@
 # cryptology
+Perform assorted mathematical functions felated to cryptography.
+Supported ciphers:
+* Vignere
+* Affine
+* Hill
+
 
 ## Setup
 Run `python3 main.py` from the root directory. 
